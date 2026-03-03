@@ -1,0 +1,10 @@
+@import "globals/normalize.css";
+@import "globals/fonts.css";
+
+@import "layout/header.css";
+@import "layout/footer.css";
+
+@import "components/container.css";
+
+@import "pages/home/filtro.css";
+@import "pages/home/produtos.css";
